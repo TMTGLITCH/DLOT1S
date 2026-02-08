@@ -1,24 +1,47 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
+    "id": 86407629,
+    "name": "Tidal Wave",
+    "author": "OnilinkGD",
+    "creators": ["OnilinkGD"],
+    "verifier": "Zoink",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": "100",
-    "password": "46290",
-    "records": [
+    "password": "free to copy",
+    "records": [100
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Trick",
+            "link": "https://www.youtube.com/watch?v=t0o4wsg36l0",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "WPOPOFF",
+            "link": "https://www.youtube.com/watch?v=mxR1JQmQyrc",
             "percent": 100,
-            "hz": 120
+            "hz": 360
+        
+    
+            "user": "mindzdraf",
+            "link": "https://www.youtube.com/watch?v=alp09R3eG_4",
+            "percent": 100,
+            "hz": 240
+        
+                "user": "Taiago",
+            "link": "https://www.youtube.com/watch?v=wdK7JTw24l0",
+            "percent": 100,
+            "hz": 360
+        
+                "user": "Andrey Kapninskii",
+            "link": "https://www.youtube.com/watch?v=gmWPsZ_g_O4",
+            "percent": 100,
+            "hz": 240
+        
+    
+
+            "user": "NeterMind",
+            "link": "https://www.youtube.com/watch?v=J6YzmDtc__M",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
